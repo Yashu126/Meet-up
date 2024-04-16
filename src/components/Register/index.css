@@ -1,0 +1,45 @@
+.register-con {
+  display: flex;
+  justify-content: center;
+}
+
+.register-im {
+  width: 25%;
+}
+
+.form-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.from-head {
+  color: #334155;
+}
+
+.label-input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.label {
+  color: #7b8794;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+.inpt {
+  border: 1px solid #7b8794;
+  padding: 8px 15px;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
+
+.error {
+  margin: 0px;
+  font-size: 10px;
+  color: #ff0b37;
+}

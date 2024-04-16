@@ -1,0 +1,51 @@
+.background-con {
+  height: 100vh;
+}
+
+.nav-con {
+  padding: 20px 30px;
+}
+
+.home-con {
+  height: 85%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.welcome-head {
+  color: #334155;
+}
+.welcome-para {
+  color: #475569;
+}
+
+.register-btn {
+  background-color: #3b82f6;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.meetup-img {
+  width: 50%;
+  margin-top: 25px;
+}
+
+.hello-name {
+  color: #2563eb;
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+.hello-topic {
+  color: #334155;
+  font-weight: bold;
+  font-size: 30px;
+}
